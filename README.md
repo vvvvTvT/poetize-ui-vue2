@@ -45,10 +45,7 @@ Vue3（IM 聊天室系统）是非必须的。如果部署，则需要依赖博�
 
 - 项目地址：https://gitee.com/littledokey/poetize
 - 专栏文章：[POETIZE开源版 - 专栏文章](https://poetize.cn/label/41)
-- 问题反馈：[POETIZE开源版 - 问题反馈](https://poetize.cn/article/121)
-- 需求管理：[POETIZE开源版 - 需求管理](https://poetize.cn/article/122)
-- 技术交流：[POETIZE开源版 - 技术交流](https://poetize.cn/article/125)
-- POETIZE开源版 QQ交流群：*807489974*。
+- 部署文档：[POETIZE开源版 - 部署文档](https://poetize.cn/article/124)
 - 七牛云登录/注册地址（文件服务/CDN）：https://s.qiniu.com/Mz6Z32
 
 ## 🚀 本地启动
